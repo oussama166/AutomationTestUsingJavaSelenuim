@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -24,7 +23,7 @@ import static org.testng.Assert.assertEquals;
  * The Base Url for this version of test is <strong>"https://demo.guru99.com/V1/"</strong>
  * </p>
  * <p>
- * The 1st scenario <i>Interaction of element in login</i>
+ * The 1st scenario <i>Interaction of element in login</i></br>
  * The 2nd scenario <i>User connect successful</i></br>
  * The 3rd scenario <i>User connect failed</i></br>
  * </p>
