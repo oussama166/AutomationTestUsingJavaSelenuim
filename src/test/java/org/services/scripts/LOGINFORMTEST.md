@@ -1,7 +1,3 @@
-Here's how you can structure the **README** for your test cases:
-
----
-
 # **Login Page Test Cases - README**
 
 This document outlines the different test cases for testing the login functionality of the application. The test cases cover various aspects such as valid and invalid login scenarios, UI and functional tests, boundary and input validation, session management, security, negative tests, performance, browser compatibility, accessibility, and recovery procedures.
